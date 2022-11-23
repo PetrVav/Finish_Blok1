@@ -16,3 +16,5 @@
 https://github.com/PetrVav/Finish_Blok1.git
 ## Блок схема алгоритма:
 ![Blockdiagram](Blockdiagram.png)
+
+
